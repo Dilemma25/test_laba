@@ -15,7 +15,7 @@ public:
 
 void incrementCopy(Conteiner node) {
 	node.value++;
-}
+} 
 
 void incrementLink(Conteiner& node) {
 	node.value++;
